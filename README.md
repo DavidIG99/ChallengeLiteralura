@@ -7,17 +7,17 @@
 
 ### Indice
 
-- [Descripción del proyecto](#descripción-del-proyecto)
+- [Descripción del proyecto](#Descripción-del-proyecto)
 
 - [Estado del proyecto](#Estado-del-proyecto)
 
-- [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+- [Características de la aplicación](#Características-de-la-aplicación)
 
-- [Acceso al proyecto](#acceso-proyecto)
+- [Acceso al proyecto](#Acceso-al-proyecto)
 
-- [Tecnologías utilizadas](#tecnologías-utilizadas)
+- [Tecnologías utilizadas](#Tecnologías-utilizadas)
 
-- [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+- [Personas-Desarrolladores del Proyecto](#personas-desarrolladores-del-proyecto)
 
 
 ## Descripción del proyecto
