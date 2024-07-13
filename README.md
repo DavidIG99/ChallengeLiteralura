@@ -49,7 +49,7 @@
 
 <p> Proyecto terminado, pero podría retomar un estado de "En desarrollo" en el futuro </p>
 
-## Caracteristicas de la aplicación
+## Características de la aplicación
 
  <p> La aplicación consiste en una base de datos manejada en posgres. Al iniciar la aplicación se se desplagara un menu que arroja 6 opciones: </p>
 
@@ -75,7 +75,7 @@
 
 <p> <a href="https://github.com/DavidIG99/ChallengeLiteralura" > Literalura </a> </p>
 
-## Tecnoligías utilizadas
+## Tecnologías utilizadas
 
 <p> <a href= "https://docs.oracle.com/en/java/javase/17/docs/api/index.html"> JAVA </a> </p>
 
